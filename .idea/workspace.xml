@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65229539-1cad-4370-ad3f-3cfa3746e95a" name="Changes" comment="Codility lesson 2- cyclic rotation">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestCase1.java" afterDir="false" />
+    <list default="true" id="65229539-1cad-4370-ad3f-3cfa3746e95a" name="Changes" comment="Problem with: how to work with junit and arrays? trying streams in junit5 instead">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestCase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCase1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681493252547</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Problem with: how to work with junit and arrays? trying streams in junit5 instead">
+      <created>1681500567297</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681500567297</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Codility lesson 2- cyclic rotation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codility lesson 2- cyclic rotation" />
+    <MESSAGE value="Problem with: how to work with junit and arrays? trying streams in junit5 instead" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem with: how to work with junit and arrays? trying streams in junit5 instead" />
   </component>
 </project>
